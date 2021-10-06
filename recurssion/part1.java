@@ -2,6 +2,7 @@ package recurssion;
 
 public class part1 {
     public static void main(String[] args) {
+        System.out.println("RECURSSION: ");
         meth1(1);
     }
     public static void meth1(int n){
